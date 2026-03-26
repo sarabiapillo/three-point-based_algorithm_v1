@@ -1,6 +1,25 @@
 # ⚾ Three-Point-Based Algorithm - Baseball Trajectory Simulator
 
+**Desarrollado por: Juan Diego Sarabia Cadenas**
+
 Simulador interactivo de trayectorias de béisbol basado en el algoritmo de tres puntos para la reconstrucción de lanzamientos con spin.
+
+## 📥 Cómo Clonar el Repositorio
+
+```bash
+git clone https://github.com/sarabiapillo/three-point-based_algorithm_v1.git
+cd three-point-based_algorithm_v1
+```
+
+**Nota:** Si te pide contraseña o credenciales, usa esta alternativa:
+```bash
+# Opción 1: Descargar como ZIP
+# Ve a https://github.com/sarabiapillo/three-point-based_algorithm_v1
+# Haz clic en "Code" > "Download ZIP"
+
+# Opción 2: Clonar con HTTPS (sin autenticación para repos públicos)
+git clone https://github.com/sarabiapillo/three-point-based_algorithm_v1.git
+```
 
 ## 📋 Descripción
 
@@ -139,7 +158,15 @@ Las contribuciones son bienvenidas. Por favor:
 
 ## 📄 Licencia
 
-Este proyecto es de código abierto para fines educativos y de investigación.
+MIT License - Copyright (c) 2026 Juan Diego Sarabia Cadenas
+
+Este proyecto es de código abierto. Puedes usar, modificar y distribuir libremente.
+Ver archivo [LICENSE](LICENSE) para más detalles.
+
+## 👨‍💻 Autor
+
+**Juan Diego Sarabia Cadenas**
+- GitHub: [@sarabiapillo](https://github.com/sarabiapillo)
 
 ## 📚 Referencias
 
